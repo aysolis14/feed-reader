@@ -46,6 +46,9 @@ $(function() {
 
 
     /* TODO: Write a new test suite named "The menu" */
+    describe('The menu', () => {
+        
+    })
 
         /* TODO: Write a test that ensures the menu element is
          * hidden by default. You'll have to analyze the HTML and
